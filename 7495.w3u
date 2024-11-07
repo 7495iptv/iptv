@@ -4,14 +4,19 @@
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/7495.w3u",
 "groups": [
 
-{"name":"DooKeela+Livescore",
-"image":"",
-"url": "https://pastebin.com/jUH3zKfR",
-"import": false},
-
 {"name": "Win IPTVFree",
 "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
 "url": "https://pastebin.com/YpDkAZPg",
+"import": false},
+
+{"name": "Ahaiptv",
+"image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
+"url": "https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/Ahaiptv1167",
+"import": false},
+
+{"name":"DooKeela+Livescore",
+"image":"",
+"url": "https://pastebin.com/jUH3zKfR",
 "import": false},
 
 {"name": "Dookeela", 
