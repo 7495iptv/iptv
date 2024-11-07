@@ -2,8 +2,13 @@
 		"name": "US Sports",
 		"author": "",
 		"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
-		"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/us.w3u",
+		"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/us.w3u",
  		"groups": [
+
+{"name": "NFLreplay",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",
+"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/rpnfl.w3u",
+"import": "true"},
 
 {"name": "Buff-Streams",
 "image": "https://buff-streams.net/img/logo.png",
