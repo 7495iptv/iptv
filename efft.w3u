@@ -4,6 +4,9 @@
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/efft.w3u",
 "groups": [
 
+{"name": "Ahaiptv", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
+"url": "https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/Ahaiptv1167"},
+
 {"name": "Legal",  "image": "https://iili.io/23SA3jj.jpg",
 "url": "https://dl.dropbox.com/scl/fi/ebhx8ykxvj6zlj6u41lzy/Legal-IPTV.w3u?rlkey=5whj4tzuqg25v7gou90bkqh4b&st=ko4sje2k&dl=1"},
 
