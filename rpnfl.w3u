@@ -5,20 +5,9 @@
 		"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/us.w3u",
  		"groups": [
 
-{"name": "Cowboys vs Falcons Nov 3, 2024 NFL Week 9",
+{"name": "Diferidos.NFL.2024",
 "image": "",
-"url": "https://nfl-replays.com/1220-1",
+"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/07d4b83c912a767820bbe32fff5ffd5c41943084/Diferidos.NFL.2024.w3u",
 "import": "true"},
-
-{"name": "Cowboys vs Falcons Nov 3, 2024 NFL Week 9 OK",
-"image": "",
-"url": "https://ok.ru/video/7922682104481",
-"import": "true"},
-
-{"name": "Dolphins vs Bills Nov 3, 2024 NFL Week 9",
-"image": "",
-"url": "https://nfl-replays.com/1202-1",
-"import": "true"},
-
 ]
 }
