@@ -20,9 +20,17 @@
 		{"name": "Bills vs Jets",
                 "image": "https://nfl-video.com/_pu/20/06582284.jpg",
                 "url":"https://filemoon.sx/d/5xb935s02e7d",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-				"online":"true",
-				"isHost":"true"},
+                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+		{"name": "Charger",
+                "info":"",
+                "image": "",
+                "url":"https://ok.ru/video/8586637216312",
+                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+		{"name": "Charger mp4",
+                "info":"",
+                "image": "",
+                "url":"https://filemoon.sx/e/dlpgzis5oi81/TitansChargers.mp4",
+                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
 		]
 	}
 	]
