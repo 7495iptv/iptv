@@ -28,9 +28,8 @@
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
 		]},
 	
-	{"name": "Diferidos.NFL.2024",
-	"image": "",
-	"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/07d4b83c912a767820bbe32fff5ffd5c41943084/Diferidos.NFL.2024.w3u",
+	{"name": "Diferidos.NFL",
+	"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/07d4b83c912a767820bbe32fff5ffd5c41943084/03.6.1.Diferidos.Menu.NFL.w3u",
 	"import": false
 	}
 	]
