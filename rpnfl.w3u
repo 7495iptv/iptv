@@ -8,22 +8,14 @@
 	"image": "",
 	"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/07d4b83c912a767820bbe32fff5ffd5c41943084/Diferidos.NFL.2024.w3u",
 	"import": false},
-	{"name": "Group2",
+	{"name": "NFL2024-10",
 		"stations":
         	[
-		{"name": "Bills vs Jets",
-                "image": "https://nfl-video.com/_pu/20/06582284.jpg",
-                "url":"https://filemoon.sx/d/5xb935s02e7d",
+		{"name": "New York Giants vs Carolina Panthers 10 Nov 2024",
+                "url":"https://ok.ru/video/8579843230264",
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
-		{"name": "Charger",
-                "info":"",
-                "image": "",
-                "url":"https://ok.ru/video/8586637216312",
-                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
-		{"name": "Charger mp4",
-                "info":"",
-                "image": "",
-                "url":"https://filemoon.sx/e/dlpgzis5oi81/TitansChargers.mp4",
+		{"name": "Cincinnati Bengals vs Baltimore Ravens 7 Nov 2024",
+                "url":"https://ok.ru/video/8547181660728",
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
 		]
 	}
