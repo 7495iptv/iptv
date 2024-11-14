@@ -7,8 +7,8 @@
 	{"name": "NFL2024-10",
 		"stations":
         	[
-		{"name": "New York Giants vs Carolina Panthers 10 Nov 2024",
-                "url":"https://ok.ru/video/8579843230264",
+		{"name": "Giants vs Panthers 10 Nov 2024",
+                "url":"https://nfl-replays.com/1008",
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
 		{"name": "Cincinnati Bengals vs Baltimore Ravens 7 Nov 2024",
                 "url":"https://ok.ru/video/8547181660728",
