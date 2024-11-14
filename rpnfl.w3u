@@ -14,8 +14,9 @@
                 "url":"https://nfl-replays.com/1008",
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
 		{"name": "Bengals vs Ravens",
-                "url":"https://nfl-replays.com/440"},
-                ]},
+                "url":"https://nfl-replays.com/440",
+                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+		]},
 	{"name": "NFL2024-11",
 		"stations":
         	[
