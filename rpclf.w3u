@@ -1,13 +1,13 @@
 {"name": "CFL",
 "author": "",
-"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
+"image":"https://b.fssta.com/uploads/application/leagues/logos/NCAAFootball.png",
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/rpclf.w3u",
 	"groups":
 	[
 	{"name": "Week 12",
 		"stations":
         	[
-		{"name": "Oregon vs Wisconsin",
+		{"name": "Oregon vs Wisconsin","image":"https://b.fssta.com/uploads/application/leagues/logos/NCAAFootball.png",
                 "url":"https://filemoon.sx/e/91u9srlc0yxn/NCAAF-2024-11-16.W12_ORE_WIS.mkv",
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
 		{"name": "Bengals vs Ravens",
@@ -25,9 +25,5 @@
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
 		]},
 	
-	{"name": "Diferidos.NFL",
-	"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/07d4b83c912a767820bbe32fff5ffd5c41943084/03.6.1.Diferidos.Menu.NFL.w3u",
-	"import": false
-	}
 	]
 }
