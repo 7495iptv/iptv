@@ -20,11 +20,13 @@
 	{"name": "NFL2024-11",
 		"stations":
         	[
-		{"name": "W11-1",
-                "url":"https://ok.ru/video/8579843230264",
+		{"name": "Washington Commanders vs Philadelphia Eagles",
+                "image":"https://nfl-video.com/_pu/21/40948476.jpg",
+		"url":"https://ok.ru/video/8691562121784",
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
-		{"name": "W11-2",
-                "url":"https://ok.ru/video/8547181660728",
+		{"name": "Cleveland Browns vs New Orleans Saints",
+                "image":"https://nfl-video.com/_pu/21/58129308.jpg",
+		"url":"https://ok.ru/video/8739826633272",
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
 		]},
 	
