@@ -7,21 +7,25 @@
 	{"name": "Week 12",
 		"stations":
         	[
-		{"name": "Oregon vs Wisconsin","image":"https://b.fssta.com/uploads/application/leagues/logos/NCAAFootball.png",
+		{"name": "Kansas vs BYU","image":"https://nfl-video.com/_ld/24/23902559.jpg",
+                "url":"https://filemoon.sx/e/31799lqcllpf/NCAAF_2024_Kansas_Jayhawks_vs_BYU_16_11_720pEN69fps_ESPN.mp4",
+                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+		{"name": "Tennessee vs Georgia","image":"https://nfl-video.com/_ld/24/25858045.jpg",
+                "url":"https://filemoon.sx/e/0fwple0xlwal/Tennessee_Volunteers_at_Georgia_Bulldogs_16.11.2024.mkv",
+                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+		{"name": "Oregon vs Wisconsin","image":"https://nfl-video.com/_ld/24/71486424.jpg",
                 "url":"https://filemoon.sx/e/91u9srlc0yxn/NCAAF-2024-11-16.W12_ORE_WIS.mkv",
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
-		{"name": "Bengals vs Ravens",
-                "url":"https://nfl-replays.com/440",
-                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+		
 		]},
 	{"name": "Week 11",
 		"stations":
         	[
-		{"name": "W11-1",
-                "url":"https://ok.ru/video/8579843230264",
+		{"name": "Oregon vs Wisconsin","image":"https://b.fssta.com/uploads/application/leagues/logos/NCAAFootball.png",
+                "url":"https://filemoon.sx/e/91u9srlc0yxn/NCAAF-2024-11-16.W12_ORE_WIS.mkv",
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
-		{"name": "W11-2",
-                "url":"https://ok.ru/video/8547181660728",
+		{"name": "Oregon vs Wisconsin","image":"https://b.fssta.com/uploads/application/leagues/logos/NCAAFootball.png",
+                "url":"https://filemoon.sx/e/91u9srlc0yxn/NCAAF-2024-11-16.W12_ORE_WIS.mkv",
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
 		]},
 	
