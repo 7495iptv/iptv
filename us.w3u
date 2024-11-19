@@ -1,7 +1,7 @@
 {
 		"name": "US Sports",
 		"author": "",
-		"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
+		"image":"https://usasports.co.uk/cdn/shop/files/USA-Sports-Logo-RGB.jpg",
 		"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/us.w3u",
  		"groups": [
 
@@ -11,7 +11,7 @@
 "import": "true"},
 
 {"name": "CFLreplay",
-"image": "",
+"image": "https://b.fssta.com/uploads/application/leagues/logos/NCAAFootball.png",
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/rpclf.w3u",
 "import": "true"},
 
