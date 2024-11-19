@@ -10,7 +10,7 @@
 		{"name": "Indianapolis Colts vs New York Jets",
                 "image":"https://nfl-video.com/_pu/21/60523778.jpg",
 		"url":"https://ok.ru/video/8755117099576",
-                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+                "isHost" : true
 		{"name": "Cleveland Browns vs New Orleans Saints",
                 "image":"https://nfl-video.com/_pu/21/58129308.jpg",
 		"url":"https://ok.ru/video/8739826633272",
