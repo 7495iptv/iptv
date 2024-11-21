@@ -12,6 +12,11 @@
 "url": "https://thetvapp-m3u.data-search.workers.dev/playlist",
 "import": false},
 
+{"name": "MoveOnJoy",
+"image": "https://img5.pic.in.th/file/secure-sv1/1732169072220.jpg",
+"url": "https://script.google.com/macros/s/AKfycby7YTBX8kOFZd7fPB8ciwYULARwURYCUKSGhCO_xAJyYf54pyKFf2-RhUUJ_abaKaSGyg/exec",
+"import": false},
+
 {"name": "US-Sports", "image": "https://usasports.co.uk/cdn/shop/files/USA-Sports-Logo-RGB.jpg",
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/us.w3u",
 "import": false},
