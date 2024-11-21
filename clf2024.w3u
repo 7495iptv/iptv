@@ -15,7 +15,7 @@
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
 		{"name": "Oregon vs Wisconsin","image":"https://nfl-video.com/_ld/24/71486424.jpg",
                 "url":"https://filemoon.sx/e/91u9srlc0yxn/NCAAF-2024-11-16.W12_ORE_WIS.mkv",
-                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+                "isHost":"true"},
 		
 		]},
 	{"name": "Week 11",
