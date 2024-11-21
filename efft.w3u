@@ -12,16 +12,16 @@
 "url": "https://thetvapp-m3u.data-search.workers.dev/playlist",
 "import": false},
 
-{"name": "US-Sports", "image": "https://usasports.co.uk/cdn/shop/files/USA-Sports-Logo-RGB.jpg",
-"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/us.w3u",
-"import": false},
-
 {"name": "ผู้เฒ่าพเนจร", "image": "https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1",
 "url": "https://wandering-oldman.github.io/freetv2238/freetv2238.html",
 "import": false},
 
 {"name": "7495", "image": "https://img5.pic.in.th/file/secure-sv1/7495logo.png",
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/7495.w3u",
+"import": false},
+
+{"name": "US-Sports", "image": "https://usasports.co.uk/cdn/shop/files/USA-Sports-Logo-RGB.jpg",
+"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/us.w3u",
 "import": false},
 
 ]
