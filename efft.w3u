@@ -8,6 +8,10 @@
 "url": "https://dl.dropbox.com/scl/fi/ebhx8ykxvj6zlj6u41lzy/Legal-IPTV.w3u?rlkey=5whj4tzuqg25v7gou90bkqh4b&st=ko4sje2k&dl=1",
 "import": false},
 
+{"name": "theTVapp",  "image": "",
+"url": "https://bit.ly/tta-m3u",
+"import": false},
+
 {"name": "US-Sports", "image": "https://usasports.co.uk/cdn/shop/files/USA-Sports-Logo-RGB.jpg",
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/us.w3u",
 "import": false},
