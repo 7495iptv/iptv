@@ -14,6 +14,10 @@
 "url": "https://dl.dropbox.com/scl/fi/prol4zp8js7orix2jfpbm/Meepoo-Dooball.txt?rlkey=gsg4gae5igbkiejns8srdrp9o&st=5h1tedkv&dl=0",
 "import": false},
 
+{"name": "Streamed",  "image": "https://img5.pic.in.th/file/secure-sv1/Streamed.jpg",
+"url": "https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/playlist.m3u8",
+"import": false},
+
 {"name": "Ahaiptv",
 "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
 "url": "https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/Ahaiptv1167",
