@@ -7,6 +7,14 @@
 	{"name": "Week11",
 		"stations":
         	[
+		{"name": "Las Vegas Raiders vs Miami Dolphins",
+                "image":"https://nfl-video.com/_pu/21/51255840.jpg",
+		"url":"https://ok.ru/video/8739324824120",
+                "isHost": "true"},
+		{"name": "Minnesota Vikings vs Tennessee Titans",
+                "image":"https://nfl-video.com/_pu/21/47455954.jpg",
+		"url":"https://ok.ru/video/8740233480760",
+                "isHost": "true"},
 		{"name": "Indianapolis Colts vs New York Jets",
                 "image":"https://nfl-video.com/_pu/21/60523778.jpg",
 		"url":"https://ok.ru/video/8755117099576",
