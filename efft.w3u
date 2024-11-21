@@ -8,11 +8,11 @@
 "url": "https://dl.dropbox.com/scl/fi/ebhx8ykxvj6zlj6u41lzy/Legal-IPTV.w3u?rlkey=5whj4tzuqg25v7gou90bkqh4b&st=ko4sje2k&dl=1",
 "import": false},
 
-{"name": "theTVapp",  "https://img5.pic.in.th/file/secure-sv1/thetvapp.jpeg",
+{"name": "theTVapp",  "image": "https://img5.pic.in.th/file/secure-sv1/thetvapp.jpeg",
 "url": "https://thetvapp-m3u.data-search.workers.dev/playlist",
 "import": false},
 
-{"name": "Streamed",  "image": "https://github.com/7495iptv/iptv/blob/main/Streamed.jpeg",
+{"name": "Streamed",  "image": "https://img5.pic.in.th/file/secure-sv1/Streamed.jpg",
 "url": "https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/playlist.m3u8",
 "import": false},
 
