@@ -15,6 +15,11 @@
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/clf2024.w3u",
 "import": "true"},
 
+{"name": "Series",
+"image": "",
+"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/series.w3u",
+"import": "true"},
+
 {"name": "Buff-Streams",
 "image": "https://buff-streams.net/img/logo.png",
 "url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/us-buffstreams.w3u",
