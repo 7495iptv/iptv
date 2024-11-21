@@ -4,6 +4,11 @@
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/refs/heads/main/7495.w3u",
 "groups": [
 
+{"name": "MoveOnJoy",
+"image": "https://img5.pic.in.th/file/secure-sv1/1732169072220.jpg",
+"url": "https://script.google.com/macros/s/AKfycby7YTBX8kOFZd7fPB8ciwYULARwURYCUKSGhCO_xAJyYf54pyKFf2-RhUUJ_abaKaSGyg/exec",
+"import": false},
+
 {"name": "Win IPTVFree",
 "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
 "url": "https://pastebin.com/YpDkAZPg",
