@@ -1,0 +1,50 @@
+{"name": "Series",
+"author": "",
+"image":"",
+"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/series.w3u",
+	"groups":
+	[
+	{"name": "into the night",
+		"stations":
+        	[
+		{"name": "Las Vegas Raiders vs Miami Dolphins",
+                "image":"https://nfl-video.com/_pu/21/51255840.jpg",
+		"url":"https://ok.ru/video/8739324824120",
+                "isHost": "true"},
+		{"name": "Minnesota Vikings vs Tennessee Titans",
+                "image":"https://nfl-video.com/_pu/21/47455954.jpg",
+		"url":"https://ok.ru/video/8740233480760",
+                "isHost": "true"},
+		{"name": "Indianapolis Colts vs New York Jets",
+                "image":"https://nfl-video.com/_pu/21/60523778.jpg",
+		"url":"https://ok.ru/video/8755117099576",
+                "isHost": "true"},
+		{"name": "Cleveland Browns vs New Orleans Saints",
+                "image":"https://nfl-video.com/_pu/21/58129308.jpg",
+		"url":"https://ok.ru/video/8739826633272",
+		"isHost": "true"},
+		{"name": "Washington Commanders vs Philadelphia Eagles",
+                "image":"https://nfl-video.com/_pu/21/40948476.jpg",
+		"url":"https://ok.ru/video/8691562121784",
+		"isHost": "true"},
+		]},
+	{"name": "series2",
+		"stations":
+        	[
+		{"name": "Falcons vs Saints",
+                "url":"https://nfl-replays.com/1010",
+                "isHost":"true"},
+		{"name": "Giants vs Panthers",
+                "url":"https://nfl-replays.com/1008",
+                "isHost":"true"},
+		{"name": "Bengals vs Ravens",
+                "url":"https://nfl-replays.com/440",
+                "isHost":"true"},
+		]},
+	
+	{"name": "Diferidos.NFL",
+	"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/07d4b83c912a767820bbe32fff5ffd5c41943084/03.6.1.Diferidos.Menu.NFL.w3u",
+	"import": false
+	}
+	]
+}
