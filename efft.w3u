@@ -4,6 +4,10 @@
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/efft.w3u",
 "groups": [
 
+{"name": "ThaiTV",  "image": "https://img5.pic.in.th/file/secure-sv1/digitaltv.png",
+"url": "https://raw.githubusercontent.com/wandering-oldman/digital-tv38/refs/heads/main/digital-tv38.html",
+"import": false},
+
 {"name": "Legal",  "image": "https://iili.io/23SA3jj.jpg",
 "url": "https://dl.dropbox.com/scl/fi/ebhx8ykxvj6zlj6u41lzy/Legal-IPTV.w3u?rlkey=5whj4tzuqg25v7gou90bkqh4b&st=ko4sje2k&dl=1",
 "import": false},
