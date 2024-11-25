@@ -7,6 +7,16 @@
 	{"name": "Week12",
 		"stations":
         	[
+		{"name": "", "image":"",
+		"url":"", "isHost": "true"},
+		{"name": "Detroit Lions vs Indianapolis Colts", "image":"https://nfl-video.com/_pu/21/40893504.jpg",
+		"url":"https://ok.ru/video/8909455166008", "isHost": "true"},
+		{"name": "Kansas City Chiefs vs Carolina Panthers", "image":"https://nfl-video.com/_pu/21/05418469.jpg",
+		"url":"https://ok.ru/video/8909950421560", "isHost": "true"},
+		{"name": "New England Patriots vs Miami Dolphins", "image":"https://nfl-video.com/_pu/21/99875387.jpg",
+		"url":"https://ok.ru/video/8907343989304", "isHost": "true"},
+		{"name": "Minnesota Vikings vs Chicago Bears", "image":"https://nfl-video.com/_pu/21/06587091.jpg",
+		"url":"https://ok.ru/video/8910202145336", "isHost": "true"},
 		{"name": "Tennessee Titans vs Houston Texans","image": "https://nfl-video.com/_pu/21/58796175.jpg",
 		"url":"https://ok.ru/video/8909228411448", "isHost": "true"},
 		{"name": "Tampa Bay Buccaneers vs New York Giants", "image":"https://nfl-video.com/_pu/21/53902696.jpg",
