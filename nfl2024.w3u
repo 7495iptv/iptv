@@ -32,8 +32,10 @@
 		{"name": "Pittsburgh Steelers vs Cleveland Browns", "image":"https://nfl-video.com/_pu/21/29533130.jpg",
 		"url":"https://ok.ru/video/8907069590072", "isHost": "true"},
 		{"name": "Steelers vs Browns", "image":"https://nfl-video.com/_pu/21/29533130.jpg",
-		"url":"https://filemoon.sx/d/d1wrgqcrnr75",
+		"url":"https://filemoon.sx/d/d1wrgqcrnr75/24-w12-pit-cle.mp4",
 		"userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
+		{"name": "PIT vs CLE", "image":"https://nfl-video.com/_pu/21/29533130.jpg",
+		"url":"https://filemoon.sx/d/d1wrgqcrnr75/24-w12-pit-cle.mp4", "isHost": "true"},
 		]},
 		
 	{"name": "Week11-2024",
