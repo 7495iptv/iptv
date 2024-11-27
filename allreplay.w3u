@@ -1,8 +1,8 @@
 {
-		"name": "US Sports",
-		"author": "",
-		"image":"https://usasports.co.uk/cdn/shop/files/USA-Sports-Logo-RGB.jpg",
-		"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/us.w3u",
+		"name": "allReplay",
+		"author": "akee",
+		"image":"https://as1.ftcdn.net/v2/jpg/00/74/95/74/1000_F_74957452_NMaSc6g9OdABpFYmoVaLvvrRi3BoO3mb.jpg",
+		"url": "https://rebrand.ly/allreplay",
  		"groups": [
 
 {"name": "NFLreplay",
@@ -13,37 +13,7 @@
 {"name": "CFLreplay",
 "image": "https://b.fssta.com/uploads/application/leagues/logos/NCAAFootball.png",
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/clf2024.w3u",
-"import": "true"},
-
-{"name": "Series",
-"image": "",
-"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/series.w3u",
-"import": "true"},
-
-{"name": "Buff-Streams",
-"image": "https://buff-streams.net/img/logo.png",
-"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/us-buffstreams.w3u",
-"import": "true"},
-
-{"name": "MLB LIVE",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png",
-"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/us-mlbstreamsai.w3u",
-"import": "true"},
-
-{"name": "NFL LIVE",
-"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",
-"url": "https://pastebin.com/raw/MmtP9Vga",
-"import": "true"},
-
-{"name": "NBA LIVE",
-"image": "https://pbs.twimg.com/profile_images/1392258537993211905/kYxkTjiE_400x400.jpg",
-"url": "https://pastebin.com/raw/CY0k4GVD",
-"import": "true"},
-
-{"name": "MarkkyStreams",
-"image": "https://v.markkystreams.com/wp-content/uploads/2020/08/cropped-dca07489-63c5-4d57-bfaa-0c3badd6bd40_200x200.png",
-"url": "https://raw.githubusercontent.com/eaktuan/IPTV/main/MarkkyStreams.w3u",
-"import": "true"},
+"import": "true"}
 
 ]
 }
