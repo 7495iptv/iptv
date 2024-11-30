@@ -4,7 +4,7 @@
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/EPL2024.w3u",
 	"groups":
 	[
-	{"name": "EPL2024-W11",
+	{"name": "EPL2024-W12",
 		"stations":
         	[
 		{"name": "Newcastle vs West Ham","image":"https://pbs.twimg.com/media/Gc5WAu8bwAA-Iow.jpg",
@@ -35,7 +35,7 @@
                 "url":"",
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
 		]},
-	{"name": "EPL2024-W10",
+	{"name": "EPL2024-W11",
 		"stations":
         	[
 		{"name": "","image":"",
