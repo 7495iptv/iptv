@@ -4,7 +4,7 @@
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/UEFACPL2024.w3u",
 	"groups":
 	[
-	{"name": "UEFA Champions League 2024-11-27",
+	{"name": "2024-11-27",
 		"stations":
         	[
 		{"name": "Aston Villa vs Juventus 1","image":"https://pbs.twimg.com/media/Gc-xiORakAACTMM.jpg",
@@ -29,14 +29,14 @@
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
 		
 		]},
-	{"name": "UEFA Champions League 2024-11-26",
+	{"name": "2024-11-26",
 		"stations":
         	[
-		{"name": "Oregon vs Wisconsin","image":"https://b.fssta.com/uploads/application/leagues/logos/NCAAFootball.png",
-                "url":"https://filemoon.sx/e/91u9srlc0yxn/NCAAF-2024-11-16.W12_ORE_WIS.mkv",
+		{"name": "","image":"",
+                "url":"",
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
-		{"name": "Oregon vs Wisconsin","image":"https://b.fssta.com/uploads/application/leagues/logos/NCAAFootball.png",
-                "url":"https://filemoon.sx/e/91u9srlc0yxn/NCAAF-2024-11-16.W12_ORE_WIS.mkv",
+		{"name": "","image":"",
+                "url":"",
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
 		]},
 	
