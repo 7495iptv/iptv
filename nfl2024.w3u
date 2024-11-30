@@ -6,23 +6,28 @@
 	[
 	{"name": "NFL2024-Week13",
 	"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
-	"stations": [
+	"stations":
+		[
 		{"name": "Las Vegas Raiders vs Kansas City Chiefs", "image":"https://nfl-video.com/_pu/21/48331401.jpg",
-		"url":"", "userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
+		"url":"",
+		"userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
 		{"name": "Miami Dolphins vs Green Bay Packers", "https://nfl-video.com/_pu/21/54619128.jpg",
-		"url":"", "userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
+		"url":"",
+		"userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
 		{"name": "New York Giants vs Dallas Cowboys", "https://nfl-video.com/_pu/21/27990216.jpg",
-		"url":"", "userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
+		"url":"",
+		"userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
 		{"name": "241128 Bears Lions", "https://nfl-video.com/_pu/21/22828447.jpg",
-		"url":"", "userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
+		"url":"",
+		"userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
 		{"name": "", "",
-		"url":"", "userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
+		"url":"",
+		"userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
 		]},
 	{"name": "Week12-2024",
 	"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
-	"stations": [
-		{"name": "", "image":"",
-		"url":"", "isHost": "true"},
+	"stations":
+		[
 		{"name": "San Francisco 49ers vs Green Bay Packers", "image":"https://nfl-video.com/_pu/21/42004776.jpg",
 		"url":"https://ok.ru/video/8911155759672", "isHost": "true"},
 		{"name": "Arizona Cardinals vs Seattle Seahawks", "image":"https://nfl-video.com/_pu/21/38458157.jpg",
@@ -45,15 +50,11 @@
 		"url":"https://ok.ru/video/8908603787832", "isHost": "true"},
 		{"name": "Pittsburgh Steelers vs Cleveland Browns", "image":"https://nfl-video.com/_pu/21/29533130.jpg",
 		"url":"https://ok.ru/video/8907069590072", "isHost": "true"},
-		{"name": "Steelers vs Browns", "image":"https://nfl-video.com/_pu/21/29533130.jpg",
-		"url":"https://filemoon.sx/d/d1wrgqcrnr75/24-w12-pit-cle.mp4",
-		"userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
-		{"name": "PIT vs CLE", "image":"https://nfl-video.com/_pu/21/29533130.jpg",
-		"url":"https://filemoon.sx/d/d1wrgqcrnr75/24-w12-pit-cle.mp4", "isHost": "true"},
 		]},
-		
 	{"name": "Week11-2024",
-		"stations": [
+	"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
+	"stations":
+		[
 		{"name": "Las Vegas Raiders vs Miami Dolphins", "image":"https://nfl-video.com/_pu/21/51255840.jpg",
 		"url":"https://ok.ru/video/8739324824120", "isHost": "true"},
 		{"name": "Minnesota Vikings vs Tennessee Titans", "image":"https://nfl-video.com/_pu/21/47455954.jpg",
@@ -65,10 +66,10 @@
 		{"name": "Washington Commanders vs Philadelphia Eagles", "image":"https://nfl-video.com/_pu/21/40948476.jpg",
 		"url":"https://ok.ru/video/8691562121784", "isHost": "true"},
 		]},
-	
 	{"name": "Week10-2024",
 	"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
-	"stations": [
+	"stations":
+		[
 		{"name": "", "image":"",
 		"url":"", "isHost": "true"},
 		{"name": "", "image":"",
