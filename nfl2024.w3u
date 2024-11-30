@@ -1,11 +1,11 @@
 {"name": "NFL",
 "author": "",
-"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
+"image": "https://img.freepik.com/free-vector/hand-drawn-american-football-logo-template_23-2149364526.jpg",
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/nfl2024.w3u",
 	"groups":
 	[
 	{"name": "NFL2024-Week13",
-	"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
+	"image": "https://img.freepik.com/free-vector/hand-drawn-american-football-logo-template_23-2149364526.jpg",
 	"stations":
 		[
 		{"name": "Las Vegas Raiders vs Kansas City Chiefs", "image":"https://nfl-video.com/_pu/21/48331401.jpg",
@@ -25,7 +25,7 @@
 		"userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
 		]},
 	{"name": "Week12-2024",
-	"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
+	"image": "https://img.freepik.com/free-vector/hand-drawn-american-football-logo-template_23-2149364526.jpg",
 	"stations":
 		[
 		{"name": "San Francisco 49ers vs Green Bay Packers", "image":"https://nfl-video.com/_pu/21/42004776.jpg",
@@ -52,7 +52,7 @@
 		"url":"https://ok.ru/video/8907069590072", "isHost": "true"},
 		]},
 	{"name": "Week11-2024",
-	"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
+	"image": "https://img.freepik.com/free-vector/hand-drawn-american-football-logo-template_23-2149364526.jpg",
 	"stations":
 		[
 		{"name": "Las Vegas Raiders vs Miami Dolphins", "image":"https://nfl-video.com/_pu/21/51255840.jpg",
@@ -67,7 +67,7 @@
 		"url":"https://ok.ru/video/8691562121784", "isHost": "true"},
 		]},
 	{"name": "Week10-2024",
-	"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
+	"image": "https://img.freepik.com/free-vector/hand-drawn-american-football-logo-template_23-2149364526.jpg",
 	"stations":
 		[
 		{"name": "", "image":"",
