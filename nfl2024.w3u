@@ -4,8 +4,23 @@
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/nfl2024.w3u",
 	"groups":
 	[
+	{"name": "NFL2024-Week13",
+	"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
+	"stations": [
+		{"name": "Las Vegas Raiders vs Kansas City Chiefs", "image":"https://nfl-video.com/_pu/21/48331401.jpg",
+		"url":"", "userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
+		{"name": "Miami Dolphins vs Green Bay Packers", "https://nfl-video.com/_pu/21/54619128.jpg",
+		"url":"241128 Bears Lions", "userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
+		{"name": "New York Giants vs Dallas Cowboys", "https://nfl-video.com/_pu/21/27990216.jpg",
+		"url":"", "userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
+		{"name": "Chicago Bears vs Detroit Lions", "https://nfl-video.com/_pu/21/22828447.jpg",
+		"url":"", "userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
+		{"name": "", "",
+		"url":"", "userAgent": "PlusMediaPlayer/0.0.9", "online":"true", "isHost": "true"},
+		]},
 	{"name": "Week12-2024",
-		"stations":
+	"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
+	"stations":
         	[
 		{"name": "", "image":"",
 		"url":"", "isHost": "true"},
@@ -53,8 +68,8 @@
 		"url":"https://ok.ru/video/8691562121784", "isHost": "true"},
 		]},
 	{"name": "Week10-2024",
-		"stations":
-        	[
+	"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
+	"stations": [
 		{"name": "", "image":"",
 		"url":"", "isHost": "true"},
 		{"name": "", "image":"",
