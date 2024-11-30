@@ -20,8 +20,7 @@
 		]},
 	{"name": "Week12-2024",
 	"image":"https://www.usasports.co.uk/blog/wp-content/uploads/2023/08/USA-Sports-Logo.jpg",
-	"stations":
-        	[
+	"stations": [
 		{"name": "", "image":"",
 		"url":"", "isHost": "true"},
 		{"name": "San Francisco 49ers vs Green Bay Packers", "image":"https://nfl-video.com/_pu/21/42004776.jpg",
@@ -77,6 +76,5 @@
 		{"name": "", "image":"",
 		"url":"", "isHost": "true"},
 		]},
-	}
 	]
 }
