@@ -1,0 +1,44 @@
+{"name": "EPL2024",
+"author": "",
+"image":"https://b.fssta.com/uploads/application/leagues/logos/NCAAFootball.png",
+"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/EPL2024.w3u",
+	"groups":
+	[
+	{"name": "EPL 2024-11-27",
+		"stations":
+        	[
+		{"name": "Aston Villa vs Juventus 1","image":"https://pbs.twimg.com/media/Gc-xiORakAACTMM.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+		{"name": "Aston Villa vs Juventus 2","image":"https://pbs.twimg.com/media/Gc-xiORakAACTMM.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+
+		{"name": "Dinamo Zagreb vs Dortmund 1","image":"https://pbs.twimg.com/media/Gc-yAOMbIAA0eBg.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+		{"name": "Dinamo Zagreb vs Dortmund 2","image":"https://pbs.twimg.com/media/Gc-yAOMbIAA0eBg.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+
+		{"name": "Liverpool vs Real Madrid 1","image":"https://pbs.twimg.com/media/GdOKk5jb0AA99t9.jpg",
+                "url":"https://filemoon.sx/d/fnqg6peea2is/20241127_Liverpool_vs_Real_Madrid_1.mp4",
+                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+		{"name": "Liverpool vs Real Madrid 2","image":"https://pbs.twimg.com/media/GdOKk5jb0AA99t9.jpg",
+                "url":"https://filemoon.sx/d/vrq4tos3s6ii/20241127_Liverpool_vs_Real_Madrid_2.mp4",
+                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+		
+		]},
+	{"name": "UEFA Champions League 2024-11-26",
+		"stations":
+        	[
+		{"name": "Oregon vs Wisconsin","image":"https://b.fssta.com/uploads/application/leagues/logos/NCAAFootball.png",
+                "url":"https://filemoon.sx/e/91u9srlc0yxn/NCAAF-2024-11-16.W12_ORE_WIS.mkv",
+                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+		{"name": "Oregon vs Wisconsin","image":"https://b.fssta.com/uploads/application/leagues/logos/NCAAFootball.png",
+                "url":"https://filemoon.sx/e/91u9srlc0yxn/NCAAF-2024-11-16.W12_ORE_WIS.mkv",
+                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
+		]},
+	
+	]
+}
