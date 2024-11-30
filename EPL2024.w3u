@@ -5,7 +5,8 @@
 	"groups":
 	[
 	{"name": "EPL2024-W13",
-		"stations":
+	"image":"https://seeklogo.com/images/P/premier-league-logo-FA8C79A1C0-seeklogo.com.png",
+	"stations":
         	[
 		{"name": "Brighton vs Southampton","image":"https://i.imgur.com/jaHefYX.jpg",
                 "url":"https://filemoon.sx/d/c5fg0cfza2nz/241129_Brighton_vs_Southampton.mp4",
@@ -31,7 +32,7 @@
 		]},
 	{"name": "EPL2024-W12",
 	"image":"https://seeklogo.com/images/P/premier-league-logo-FA8C79A1C0-seeklogo.com.png",
-		"stations":
+	"stations":
         	[
 		{"name": "Newcastle vs West Ham","image":"https://pbs.twimg.com/media/Gc5WAu8bwAA-Iow.jpg",
                 "url":"https://filemoon.sx/d/gzs3igz2bp47/241125_Newcastle_vs_West_Ham.mp4",
@@ -62,7 +63,8 @@
                 "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
 		]},
 	{"name": "EPL2024-W11",
-		"stations":
+	"image":"https://seeklogo.com/images/P/premier-league-logo-FA8C79A1C0-seeklogo.com.png",
+	"stations":
         	[
 		{"name": "","image":"",
                 "url":"",
