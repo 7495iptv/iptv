@@ -1,0 +1,422 @@
+{
+"name":"Acestream",
+"info":"For Hi Speed",
+"image":"",
+stations:
+[
+{
+"name":"Uk premier sport 1",
+"info":"",
+"image":"https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+"url":"acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
+"embed":"true"
+},
+
+
+{
+"name":"TNT 1 (uk)",
+"info":"",
+"image":"https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",
+"url":"acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
+"embed":"true"
+},
+
+
+
+{
+"name":"TNT 4 (uk)",
+"info":"",
+"image":"https://upload.wikimedia.org/wikipedia/en/6/6b/TNT_Sports_4_logo.png",
+"url":"acestream://fc5089d8e1519872fdf951779ccbca913acc9bce",
+"embed":"true"
+},
+
+{
+"name":"maty 3 (RU) ",
+"info":"",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuZ_ywucPw9aJUn3YN7_WmyJx6jb7NBp91pazp04l4-YMzapIGiV8FfU-ElNxxM5IN7qQ&usqp=CAU",
+"url":"acestream://b6baa046075d82da300fc1b16de96067a8b9540e",
+"embed":"true"
+},
+
+
+
+{
+"name":"BeIN Sports 2 [BE] ",
+"info":"",
+"image":"https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"url":"acestream://edb507e38394d614c9ff55805c9d354ae13210bc",
+"embed":"true"
+},
+
+
+{
+"name":"BeIN Sports 3 [BE] ",
+"info":"",
+"image":"https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+"url":"acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+",
+"embed":"true"
+},
+
+
+
+
+{
+"name":"Bein Sports 1 France",
+"info":"",
+"image":"https://i.goalzz.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png",
+"url":"acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0",
+"embed":"true"
+},
+
+{
+"name":"pimpletv.ru",
+"info":"",
+"image":"https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd-753x406.jpg",
+"url":"acestream://e38b33c56332de27ff25df223cdf488b1ec6051f",
+"embed":"true"
+},
+
+{
+"name":"impletv.ru",
+"info":"",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlan78RENfSt3ckcqtRjxCkGgCGNJulWliFQ&s",
+"url":"acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc",
+"embed":"true"
+},
+
+
+{
+"name":"Polasat Sport (PL)",
+"info":"",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ug4KIQuzLHekAWXnKyN-VpWCFGTG6vTaRw&s",
+"url":"acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee",
+"embed":"true"
+},
+
+{
+"name":"DAZN 1 Bar HD (DE)",
+"info":"",
+"image":"https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1666369823000",
+"url":"acestream://897e73c9d578848f596585314ecb9ae067c0e229",
+"embed":"true"
+},
+
+{
+"name":"Premier Sport 2 (UK)",
+"info":"",
+"image":"https://i.ytimg.com/vi/hjGjeCeWr4E/hqdefault.jpg",
+"url":"acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
+"embed":"true"
+},
+
+{
+"name":"Polsat sport Premium 2 (PL)",
+"info":"",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHdgEcqbUEX2UFZolOvE1GnPNrs9IYr9j6Q&s",
+"url":"acestream://3147c586346aee00c005d1caa55204d38678c95f",
+"embed":"true"
+},
+
+
+
+{
+"name":"ช่องMF ของรัสเซีย(ru) ",
+"info":"",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0eQ1vK5KgfuqtoQt5KF2zRCHB-mGyYpL_tw&s",
+"url":"acestream://c80018d32071a26bffa9943646e1c2cf0bc9640f",
+"embed":"true"
+},
+
+{
+"name":"Setanta live 2",
+"info":"",
+"image":"https://i.goalzz.com/?i=o%2Fh%2F0%2F438%2Fsetanta-sports-2-2.png",
+"url":"acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c",
+"embed":"true"
+},
+
+{
+"name":"Setanta live 1",
+"info":"",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",
+"url":"acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707",
+"embed":"true"
+},
+
+
+{
+"name":"Ziggo Sport Racing (BE)",
+"info":"",
+"image":"https://i.goalzz.com/?i=o%2Fh%2F1%2F851%2Fziggo-sport-racing-1.png",
+"url":"acestream://77800bb07c1d69135024ee2379c97472eb12dd45",
+"embed":"true"
+},
+
+{
+"name":"Eleven Sport 1 (ฺBE)",
+"info":"",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdUBY0CDRL0XAt8T_ehYkDDkaahZZfaTmu1w&s",
+"url":"acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
+"embed":"true"
+},
+
+{
+"name":"Eleven Sport 2 (ฺBE)",
+"info":"",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnlFMq6BlIyC2V5bqY2uXT42wfTsuDaHQ6WA&s",
+"url":"acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
+"embed":"true"
+},
+
+
+{
+"name":"Eleven Sport 3 (ฺBE)",
+"info":"",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt2KFMEo877sORme0iylyA51QZAPiWC0J7Sg&s",
+"url":"acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
+"embed":"true"
+},
+
+
+{
+"name":"DAZN F1 ",
+"info":"NEW 1080p",
+"image":"https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+"url":"acestream://5789ca155323664edd293b848606688edf803f4d",
+"embed":"true"
+},
+
+{
+"name":"DAZN F1 ",
+"info":"NEW 1080p",
+"image":"https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+"url":" acestream://9dad717d99b29a05672166258a77c25b57713dd5",
+"embed":"true"
+},
+
+{
+"name":"DAZN F1 ",
+"info":"NEW 1080p",
+"image":"https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+"url":"acestream://e1fcad9de0c782c157fde6377805c58297ab65c2",
+"embed":"true"
+},
+
+{
+"name":"sky sports F1",
+"info":"[DE] ",
+"image":"https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj",
+"url":"acestream:?infohash=b0999d6facfbae2944b9c7bba442eeea9cd9d4b2",
+"embed":"true"
+},
+
+{
+"name":"F1TV FHD 1080p",
+"info":" ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64MI8GmUqECUGD7yQy0enGCHh9lpBUZ4ihg&s",
+"url":"acestream://bae5581d6c10d6e220fceb7e790e62376b1314fb",
+"embed":"true"
+},
+
+
+{
+"name":"F1TV HD 720p",
+"info":" ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64MI8GmUqECUGD7yQy0enGCHh9lpBUZ4ihg&s",
+"url":"acestream://3268aa08a29d0d6fd1a287bf51a0f54e1a68d7e0",
+"embed":"true"
+},
+
+{
+"name":"ZiGGo sport select (ฺBE)",
+"info":" ",
+"image":"https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg",
+"url":"acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a",
+"embed":"true"
+},
+
+
+{
+"name":"ZiGGo sport 2",
+"info":" ",
+"image":"https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg",
+"url":"acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91",
+"embed":"true"
+},
+
+{
+"name":"Футбол HD [RU] ",
+"info":" ",
+"image":"https://yamobi.ru/i/posts/rec012632/0_large.jpg",
+"url":"acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd",
+"embed":"true"
+},
+
+
+{
+"name":"Polsat Sport [PL] ",
+"info":" ",
+"image":"https://yt3.googleusercontent.com/hyKOTJJGBV02WqAGya_G-kaV2BVCedmt6wNpodKW7ckD8jsLgFeHEYldAnZ6mCMY9D9DXJFPjwg=s900-c-k-c0x00ffffff-no-rj",
+"url":"acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee",
+"embed":"true"
+},
+
+{
+"name":"Polsat Sport Premium 1 [PL] ",
+"info":" ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LPdOqb_s0P7riYO9jCMW5AwnoaoTd7B3VA&s",
+"url":"acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f",
+"embed":"true"
+},
+
+{
+"name":"ORF SPORT+ HD [DE] ",
+"info":" ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLAu7Ep9ciZyLP6_NqHixDhGgQrgGGYv_JJw&s",
+"url":"acestream://0dfa37340ca0300a41f7a78bd3a0f024c3296974",
+"embed":"true"
+},
+
+{
+"name":"BeIN Sports 1 [BE]  ",
+"info":" ",
+"image":"https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp",
+"url":"acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0",
+"embed":"true"
+},
+
+{
+"name":"Матч! Футбол 1 ( original ) [RU]  ",
+"info":" ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqcD6BZj2eqD6aC0lnZvj0_7-Npam-7RtGA&s",
+"url":"acestream://b28db77c5084da7993395d77df96c30bb134f0a9",
+"embed":"true"
+},
+
+{
+"name":"Premier Sports 1 [UK]  ",
+"info":" ",
+"image":"https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+"url":"acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
+"embed":"true"
+},
+
+{
+"name":"TVP Sport HD [PL] ",
+"info":" ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8cwXZ5pK3bFzNtT9W7K_E6AHNJ3f1QG6_w&s",
+"url":"acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867",
+"embed":"true"
+},
+
+{
+"name":"Матч! Премьер HD [RU] ",
+"info":" ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGVyqtsTJiF5bzoKsEpxBmRLPpRrXQBu3_w&s",
+"url":"acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12",
+"embed":"true"
+},
+
+{
+"name":"Sport Digital [DE] ",
+"info":" ",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1200px-Sport-Digital.svg.png",
+"url":"acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7",
+"embed":"true"
+},
+
+{
+"name":"Матч! Футбол 2 ( original ) [RU] ",
+"info":" ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJWaR3O4HTZTGCgkZu1E2Qqg12z17NNIyrUA&s",
+"url":"acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04",
+"embed":"true"
+},
+
+{
+"name":"Eleven Sports 1 HD [PL]   ",
+"info":" ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgxAtaWXuvAt5MoyMD8li1fOkJo-U_dIESEg&s",
+"url":"acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00",
+"embed":"true"
+},
+
+{
+"name":"Sky Sport Austria 1 [Austria]   ",
+"info":" ",
+"image":"hhttps://img2.sport-tv-guide.live/images/tv-station-sky-sport-austria-165.png",
+"url":"acestream://eec3f8107e008cec3679f76e078deeefd1348a3e",
+"embed":"true"
+},
+
+
+{
+"name":"Sky Sport Main Event [UK]   ",
+"info":" ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVsnEcCh_aQWl27k967x2TANXmK5pzPebAw&s",
+"url":"acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+",
+"embed":"true"
+},
+
+{
+"name":"Sky Sports Football [UK]",
+"info":" ",
+"image":"https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Football-2020-logo-250.png",
+"url":"acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
+"embed":"true"
+},
+
+{
+"name":"Setanta live 1",
+"info":"",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",
+"url":"acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707",
+"embed":"true"
+},
+
+{
+"name":"Premier Sport 2 (UK)",
+"info":"",
+"image":"https://i.ytimg.com/vi/hjGjeCeWr4E/hqdefault.jpg",
+"url":"acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
+"embed":"true"
+},
+
+{
+"name":"pimpletv.ru",
+"info":"",
+"image":"https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd-753x406.jpg",
+"url":"acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc",
+"embed":"true"
+},
+
+{
+"name":"Матч! ТВ HD [RU] ",
+"info":"",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXTblV7fYwrvbxgabWKUppQlOcilD3C47Bw&s",
+"url":"acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2",
+"embed":"true"
+},
+
+{
+"name":"Eurosport 1 HD [RU] ",
+"info":"",
+"image":"https://s2.vcdn.biz/static/f/7400957141/image.jpg",
+"url":"acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
+"embed":"true"
+},
+
+{
+"name":"Canal+ Sport [PL] ",
+"info":"",
+"image":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",
+"url":"acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7",
+"embed":"true"
+},
+
+
+]
+}
