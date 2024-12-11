@@ -10,19 +10,19 @@
 
 	{"name": "Premier League",
 	"image": "https://seeklogo.com/images/P/premier-league-logo-FA8C79A1C0-seeklogo.com.png",
-	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/053EPL2024.w3u"},"import": "true"},
+	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/053EPL2024.w3u","import": "true"},
 	
 	{"name": "UEFA Champions League",
 	"image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/235px-UEFA_Champions_League.svg.png",
-	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/054UEFACPL2024.w3u"},"import": "true"},
+	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/054UEFACPL2024.w3u","import": "true"},
 	
 	{"name": "NFLreplay",
 	"image": "https://img.freepik.com/free-vector/hand-drawn-american-football-logo-template_23-2149364526.jpg",
-	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/051nfl2024.w3u"},"import": "true"},
+	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/051nfl2024.w3u","import": "true"},
 	
 	{"name": "CFLreplay",
 	"image": "https://b.fssta.com/uploads/application/leagues/logos/NCAAFootball.png",
-	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/052clf2024.w3u"},"import": "true"}
+	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/052clf2024.w3u","import": "true"},
 	
 ]
 }
