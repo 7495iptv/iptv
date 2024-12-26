@@ -4,6 +4,15 @@
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/051nfl2024.w3u",
 	"groups":
 	[
+	
+	{"name": "NFL2024-Week17",
+	"image": "https://img.freepik.com/free-vector/hand-drawn-american-football-logo-template_23-2149364526.jpg",
+	"stations":
+		[
+		{"name": "Kansas City Chiefs vs Pittsburgh Steelers", "image":"https://nfl-video.com/_pu/22/83889638.jpg",
+		"url":"https://ok.ru/video/9418151561784", "isHost": "true"},
+		]},
+	
 	{"name": "NFL2024-Week13",
 	"image": "https://img.freepik.com/free-vector/hand-drawn-american-football-logo-template_23-2149364526.jpg",
 	"stations":
