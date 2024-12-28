@@ -19,9 +19,9 @@
 	"url": "https://efft.short.gy/replayall",
 	"import": "true"},
 
-	{"name": "Pink",
+	{"name": "DLHD",
 	"image": "",
-	"url": "https://efft.short.gy/pink",
+	"url": "https://raw.githubusercontent.com/ydbf/dlhd/refs/heads/main/dlhd.m3u8",
 	"import": "true"},
 
 	{"name": "Premier League",
