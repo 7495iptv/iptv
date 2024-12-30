@@ -21,7 +21,7 @@
 
 	{"name": "club-tv",
         "image": "",
-        "url": "https://raw.githubusercontent.com/proyecto04/club-tv/refs/heads/main/.m3u",
+        "url": "https://raw.githubusercontent.com/7495iptv/iptv/refs/heads/main/clubtv.m3u",
 	"import": "true"},
 
 	{"name": "IPTV",
