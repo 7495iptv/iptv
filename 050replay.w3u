@@ -14,12 +14,12 @@
 	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/052clf2024.w3u",
 	"import": "true"},
 	
-	"name": "ky",
+	{"name": "ky",
         "image": "",
         "url": "https://raw.githubusercontent.com/kyleabrahams/tv/3507e7387d677b7dd28d244adb762ff46b33fb23/list/playlist.m3u",
 	"import": "true"},
 
-	"name": "IPTV",
+	{"name": "IPTV",
         "image": "",
         "url": "https://efft.short.gy/iptv19",
 	"import": "true"},
