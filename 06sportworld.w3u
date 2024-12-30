@@ -1,0 +1,13 @@
+{
+		"name": "SportWorld",
+		"image":"",
+		"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/06sportworld.w3u",
+ 		"groups": [
+
+	{"name": "W-SPORT",
+	"image": "",
+	"url": "https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/trial",
+	"import": "true"},
+
+]
+}
