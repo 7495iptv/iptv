@@ -14,6 +14,11 @@
 	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/052clf2024.w3u",
 	"import": "true"},
 	
+	{"name": "embedplay",
+	"image": "",
+	"url": "https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/live.m3u",
+	"import": "true"},
+
 	{"name": "Replay 🇪🇸",
 	"image": "https://i.postimg.cc/rwRvTnHY/Rinnegan.png",
 	"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/7b2e4b6b768076b734e58a2975b4e054438c276b/af1cionados.w3u",
