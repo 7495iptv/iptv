@@ -19,6 +19,11 @@
         "url": "https://raw.githubusercontent.com/kyleabrahams/tv/3507e7387d677b7dd28d244adb762ff46b33fb23/list/playlist.m3u",
 	"import": "true"},
 
+	{"name": "club-tv",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/proyecto04/club-tv/refs/heads/main/.m3u",
+	"import": "true"},
+
 	{"name": "IPTV",
         "image": "",
         "url": "https://efft.short.gy/iptv19",
