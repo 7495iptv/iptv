@@ -14,6 +14,11 @@
 	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/052clf2024.w3u",
 	"import": "true"},
 	
+	"name": "IPTV 19",
+        "image": "",
+        "url": "http://cdn1host.online:2999/get.php?username=hostingserverline2&password=YLiEQuBl5g&type=m3u_plus",
+	"import": "true"},
+
 	{"name": "embedplay",
 	"image": "",
 	"url": "https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/live.m3u",
