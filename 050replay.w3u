@@ -14,19 +14,24 @@
 	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/052clf2024.w3u",
 	"import": "true"},
 	
-	{"name": "IPTV",
+	{"name": "Test1 iptv",
         "image": "",
         "url": "https://efft.short.gy/iptv19",
 	"import": "true"},
-
-	{"name": "ky",
+	
+	{"name": "Test2 ky",
         "image": "",
         "url": "https://raw.githubusercontent.com/kyleabrahams/tv/3507e7387d677b7dd28d244adb762ff46b33fb23/list/playlist.m3u",
 	"import": "true"},
 
-	{"name": "embedplay",
+	{"name": "Test3 embedplay",
 	"image": "",
 	"url": "https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/live.m3u",
+	"import": "true"},
+
+	{"name": "Test4 iptv",
+        "image": "",
+        "url": "",
 	"import": "true"},
 
 	{"name": "AF1 🇪🇸",
@@ -42,6 +47,21 @@
 	{"name": "UEFA Champions League",
 	"image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/235px-UEFA_Champions_League.svg.png",
 	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/054UEFACPL2024.w3u",
+	"import": "true"},
+	
+	{"name": "Test5",
+        "image": "",
+        "url": "",
+	"import": "true"},
+	
+	{"name": "Test6",
+        "image": "",
+        "url": "",
+	"import": "true"},
+	
+	{"name": "Test7",
+        "image": "",
+        "url": "",
 	"import": "true"},
 		
 ]
