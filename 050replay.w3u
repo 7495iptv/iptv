@@ -14,26 +14,6 @@
 	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/052clf2024.w3u",
 	"import": "true"},
 	
-	{"name": "Test1 iptv",
-        "image": "",
-        "url": "https://efft.short.gy/iptv19",
-	"import": "true"},
-	
-	{"name": "Test2 ky",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/kyleabrahams/tv/3507e7387d677b7dd28d244adb762ff46b33fb23/list/playlist.m3u",
-	"import": "true"},
-
-	{"name": "Test3 embedplay",
-	"image": "",
-	"url": "https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/live.m3u",
-	"import": "true"},
-
-	{"name": "Test4 iptv",
-        "image": "",
-        "url": "",
-	"import": "true"},
-
 	{"name": "AF1 🇪🇸",
 	"image": "https://i.postimg.cc/rwRvTnHY/Rinnegan.png",
 	"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/7b2e4b6b768076b734e58a2975b4e054438c276b/af1cionados.w3u",
@@ -48,18 +28,38 @@
 	"image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/235px-UEFA_Champions_League.svg.png",
 	"url": "https://raw.githubusercontent.com/7495iptv/iptv/main/054UEFACPL2024.w3u",
 	"import": "true"},
-	
-	{"name": "Test5",
-        "image": "",
-        "url": "",
-	"import": "true"},
-	
+
 	{"name": "Test6",
         "image": "",
         "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/056.w3u",
 	"import": "true"},
+
+	{"name": "Test7 iptv",
+        "image": "",
+        "url": "https://efft.short.gy/iptv19",
+	"import": "true"},
 	
-	{"name": "Test7",
+	{"name": "Test8 ky",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/kyleabrahams/tv/3507e7387d677b7dd28d244adb762ff46b33fb23/list/playlist.m3u",
+	"import": "true"},
+
+	{"name": "Test9 embedplay",
+	"image": "",
+	"url": "https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/live.m3u",
+	"import": "true"},
+
+	{"name": "Test10",
+        "image": "",
+        "url": "",
+	"import": "true"},
+	
+	{"name": "Test11",
+        "image": "",
+        "url": "",
+	"import": "true"},
+	
+	{"name": "Test12",
         "image": "",
         "url": "",
 	"import": "true"},
