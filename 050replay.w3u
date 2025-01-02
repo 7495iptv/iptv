@@ -49,9 +49,9 @@
 	"url": "https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/live.m3u",
 	"import": "true"},
 
-	{"name": "Test10",
+	{"name": "Test10 TizTV",
         "image": "",
-        "url": "",
+        "url": "https://efft.short.gy/tiztv",
 	"import": "true"},
 	
 	{"name": "Test11",
