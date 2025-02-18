@@ -4,14 +4,11 @@
 "url": "https://raw.githubusercontent.com/7495iptv/iptv/main/052clf2024.w3u",
 	"groups":
 	[
-	{"name": "Week BOWL",
+	{"name": "CFP National Championship",
 		"stations":
         	[
-		{"name": "USC vs Texas A&M Las Vegas Bowl","image":"https://nfl-video.com/_ld/25/70941094.jpg",
-                "url":"https://filemoon.to/e/e6l9k0kxeyyo/NCAAF_2024_USC_Trojans_vs_Texas_A_M_27_12_720pEN60fps_ESPN.mp4",
-                "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"},
-		{"name": "Texas Tech vs Arkansas Liberty Bowl","image":"https://nfl-video.com/_ld/25/12133064.jpg",
-                "url":"https://ok.ru/video/9428699515448", "isHost": "true"},
+		{"name": "Ohio State vs Notre Dame","image":"https://nfl-video.com/_ld/25/61603147.jpg",
+                "url":"https://ok.ru/video/9540806576696", "isHost": "true"},
 		]},
 	
 	{"name": "Week 12",
