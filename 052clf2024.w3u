@@ -7,6 +7,8 @@
 	{"name": "CFP National Championship",
 		"stations":
         	[
+		{"name": "TEST","image":"",
+                "url":"https://fairyanime.net/watch/YbjlxbPumt.html", "isHost": "true"},
 		{"name": "Ohio State vs Notre Dame","image":"https://nfl-video.com/_ld/25/61603147.jpg",
                 "url":"https://ok.ru/video/9540806576696", "isHost": "true"},
 		]},
