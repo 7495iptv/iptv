@@ -6,6 +6,13 @@ stations:
 [
 
 {
+"name": "Vstream",
+"image": "https://logodix.com/logo/1625825.png",
+"url": "https://bit.ly/vietacestream",
+"import": "true"
+},
+
+{
 "name":"F1TV FHD 1080p",
 "info":" ",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64MI8GmUqECUGD7yQy0enGCHh9lpBUZ4ihg&s",
