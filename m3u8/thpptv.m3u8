@@ -3,9 +3,9 @@
 
 # --- ส่วนกำหนดเสียงทางเลือก (Audio Group) ---
 # บอกว่ามีกลุ่มเสียงชื่อ "my_audio_group" นะ เป็นภาษาไทย ให้ไปใช้ข้อมูลจากไฟล์ audio_thai.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="my_audio_group",LANGUAGE="th",NAME="Thai Sound",AUTOSELECT=YES,DEFAULT=YES,URI="https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/audio-hi/th/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1765431001&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=zmE8sg9S0JyPa0CU6U5ciA"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="my_audio_group",LANGUAGE="th",NAME="Thai Sound",AUTOSELECT=YES,DEFAULT=YES,URI="https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/audio-hi/th/index.m3u8
 
 # --- ส่วนกำหนดวิดีโอหลัก (Stream Variant) ---
 # บอกว่าวิดีโอนี้ ความชัดเท่านี้นะ และให้ใช้เสียงจากกลุ่ม "my_audio_group"
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,AUDIO="my_audio_group"
-https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/1080p/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1765431001&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=zmE8sg9S0JyPa0CU6U5ciA
+https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/1080p/index.m3u8
