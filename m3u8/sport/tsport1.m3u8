@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://119.59.118.159/live/ch9/xxccxgd134/index.m3u8
-###http://119.59.118.159/live/ch9/Mariogogo007/index.m3u8
+http://119.59.118.159/live/ch9/Mariogogo007/index.m3u8
+###http://119.59.118.159/live/ch9/xxccxgd134/index.m3u8
 ###https://cdn1.googlecdnforstreaming.live/live/tsp1/playlist.m3u8
 ###https://cdn1.googlecdnforstreaming.live/live/tsp1/chunks.m3u8
