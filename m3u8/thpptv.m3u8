@@ -1,9 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-
-# ส่วนตั้งค่าเสียง (Audio)
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",NAME="Thai Audio",LANGUAGE="th",DEFAULT=YES,AUTOSELECT=YES,URI="https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/audio-hi/th/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1768492801&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=CWigr11w0r0S3QesUDoSpQ"
-
-# ส่วนตั้งค่าภาพ (Video) ที่เชื่อมโยงกับกลุ่มเสียง
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,AUDIO="audio-group"
-https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/720p/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1768492801&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=CWigr11w0r0S3QesUDoSpQ
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2"
+https://ww.dooballfree.vip/live/pptv/playlist.m3u8
