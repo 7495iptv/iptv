@@ -1,11 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# --- ส่วนกำหนดเสียงทางเลือก (Audio Group) ---
-# บอกว่ามีกลุ่มเสียงชื่อ "my_audio_group" นะ เป็นภาษาไทย ให้ไปใช้ข้อมูลจากไฟล์ audio_thai.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="my_audio_group",LANGUAGE="th",NAME="Thai Sound",AUTOSELECT=YES,DEFAULT=YES,URI=
-https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/audio-hi/th/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1768492801&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=CWigr11w0r0S3QesUDoSpQ
 
-# --- ส่วนกำหนดวิดีโอหลัก (Stream Variant) ---
-# บอกว่าวิดีโอนี้ ความชัดเท่านี้นะ และให้ใช้เสียงจากกลุ่ม "my_audio_group"
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,AUDIO="my_audio_group"
+# ส่วนตั้งค่าเสียง (Audio)
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",NAME="Thai Audio",LANGUAGE="th",DEFAULT=YES,AUTOSELECT=YES,URI="https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/audio-hi/th/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1768492801&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=CWigr11w0r0S3QesUDoSpQ"
+
+# ส่วนตั้งค่าภาพ (Video) ที่เชื่อมโยงกับกลุ่มเสียง
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,AUDIO="audio-group"
 https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/720p/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1768492801&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=CWigr11w0r0S3QesUDoSpQ
