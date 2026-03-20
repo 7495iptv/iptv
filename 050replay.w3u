@@ -56,7 +56,7 @@
 	
 	{"name": "WRC2026",
         "image": "",
-        "url": "https://github.com/7495iptv/iptv/blob/main/replay/wrc2026/WRC%20Rally%20Monte%20Carlo%202026.w3u",
+        "url": "https://raw.githubusercontent.com/7495iptv/iptv/refs/heads/main/replay/wrc2026/1MonteCarlo2026.w3u",
 	"import": "true"},
 	
 	{"name": "Test12",
