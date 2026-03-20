@@ -54,9 +54,9 @@
         "url": "https://efft.short.gy/tiztv",
 	"import": "true"},
 	
-	{"name": "Test11",
+	{"name": "WRC2026",
         "image": "",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/7495iptv/iptv/refs/heads/main/replay/wrc2026/WRC%20Rally%20Monte%20Carlo%202026.w3u",
 	"import": "true"},
 	
 	{"name": "Test12",
