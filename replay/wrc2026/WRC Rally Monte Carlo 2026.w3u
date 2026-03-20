@@ -1,0 +1,47 @@
+{
+  "name": "WRC Rally Monte Carlo 2026",
+  "author": "Gemini AI",
+  "image": "https://wrc.com/images/logos/wrc-logo.png",
+  "stations": [
+    {
+      "name": "WRC Jan 25 (Server 1 - OK.ru)",
+      "image": "https://ok.ru/favicon.ico",
+      "url": "https://ok.ru/videoembed/9046342896323"
+    },
+    {
+      "name": "WRC Jan 25 (Server 2 - Filemoon)",
+      "image": "https://filemoon.sx/favicon.ico",
+      "url": "https://filemoon.sx/e/33k2d3l78jzf"
+    },
+    {
+      "name": "WRC Jan 24 (Server 1 - OK.ru)",
+      "image": "https://ok.ru/favicon.ico",
+      "url": "https://ok.ru/videoembed/9042699250371"
+    },
+    {
+      "name": "WRC Jan 24 (Server 2 - Filemoon)",
+      "image": "https://filemoon.sx/favicon.ico",
+      "url": "https://filemoon.sx/e/o7l8f895z4z3"
+    },
+    {
+      "name": "WRC Jan 23 (Server 1 - OK.ru)",
+      "image": "https://ok.ru/favicon.ico",
+      "url": "https://ok.ru/videoembed/9038753172163"
+    },
+    {
+      "name": "WRC Jan 23 (Server 2 - Filemoon)",
+      "image": "https://filemoon.sx/favicon.ico",
+      "url": "https://filemoon.sx/e/p0g7g0r9k1r1"
+    },
+    {
+      "name": "WRC Jan 22 (Server 1 - OK.ru)",
+      "image": "https://ok.ru/favicon.ico",
+      "url": "https://ok.ru/videoembed/9034827074243"
+    },
+    {
+      "name": "WRC Jan 22 (Server 2 - Filemoon)",
+      "image": "https://filemoon.sx/favicon.ico",
+      "url": "https://filemoon.sx/e/m4f2u6t9p9p9"
+    }
+  ]
+}
