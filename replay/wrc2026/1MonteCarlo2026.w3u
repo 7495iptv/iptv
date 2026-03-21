@@ -4,14 +4,15 @@
   "image": "https://wrc.com/images/logos/wrc-logo.png",
   "stations": [
     {
-      "name": "WRC Jan 25 (Server 1 - OK.ru)",
+      "name": "WRC26 Jan 25 OK.ru)",
       "image": "https://ok.ru/favicon.ico",
-      "url": "https://ok.ru/videoembed/9046342896323"
+      "url": "https://ok.ru/videoembed/9046342896323", "isHost": "true"}
     },
     {
-      "name": "WRC Jan 25 (Server 2 - Filemoon)",
+      "name": "WRC26 Jan 25 Filemoon)",
       "image": "https://filemoon.sx/favicon.ico",
-      "url": "https://filemoon.sx/e/33k2d3l78jzf"
+      "url": "https://filemoon.sx/e/33k2d3l78jzf",
+      "userAgent": "PlusMediaPlayer/0.0.9","online":"true","isHost":"true"}
     },
     {
       "name": "WRC Jan 24 (Server 1 - OK.ru)",
